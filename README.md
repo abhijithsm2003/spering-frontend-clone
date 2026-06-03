@@ -6,11 +6,11 @@ My first frontend web development project inspired by the Spering freelancer web
 
 ### Desktop View
 
-[Watch Desktop Demo](./laptop.mp4)
+[Watch Desktop Demo](laptop.mp4)
 
 ### Mobile View
 
-[Watch Mobile Demo](./iphone12pro.mp4)
+[Watch Mobile Demo](iphone12pro.mp4)
 
 ## 🚀 Features
 
